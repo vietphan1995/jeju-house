@@ -2,7 +2,7 @@
 
 # Introduction
 
-A house that people can live in emergency situation. Emergency situation can be listed as storm, volcano, flood, rain, fired as natural disaster on land, sand, mountain, beach, ocean …
+A house that people can live in emergency situation. Emergency situation can be listed as storm, volcano, flood, rain, fired as natural disaster on land, sand, mountain, beach, ocean, or in attack by animal …
 
 This house has architect shape like warning float on beach, circle shape, triangle ridge, and long bottom column nail connect with this house below water face, i think this house can keep balance when it meets big waves, winds, volcanos, in any temperature condition.
 
@@ -47,6 +47,8 @@ https://www.youtube.com/watch?v=3_AgG6GUr0w
 https://www.youtube.com/watch?v=2lgwr7trSgw
 
 https://www.youtube.com/watch?v=l1pxV7Nro34
+
+messi
 
 sand
 
