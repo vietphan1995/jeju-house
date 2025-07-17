@@ -2,6 +2,8 @@
 
 # Introduction
 
+[https://github.com/vietphan1995/jeju-house](https://github.com/vietphan1995/jeju-house)
+
 A house that people can live in emergency situation. Emergency situation can be listed as storm, volcano, flood, rain, fired as natural disaster on land, sand, mountain, beach, ocean, or in attack by animal …
 
 This house has architect shape like warning float on beach, circle shape, triangle ridge, and long bottom column nail connect with this house below water face, i think this house can keep balance when it meets big waves, winds, volcanos, in any temperature condition.
@@ -12,46 +14,5 @@ This house can act as lighthouse in beach. This lighthouse act as station send a
 
 In extend, this house can help maintain ocean life in observe animal method, clean waste trash in the ocean, history, accident, incident research.
 
-# References and keywords
-
-Boxable
-
-jeju
-
-mh370
-
-one warning on the beach i saw
-
-gym
-
-spool
-
-ratio, eg. 5/95
-
-https://www.bing.com/videos/riverview/relatedvideo?q=radar&mid=A8EC47F6D6DF7C5FC2E5A8EC47F6D6DF7C5FC2E5&ajaxhist=0
-
-Snow storm
-
-Sinking lego ship
-
-https://www.youtube.com/watch?v=zcQcjzUGl9Q
-
-Torrent trip
-
-same track rail
-
-Maintain ocean eco system purpose
-
-https://www.youtube.com/watch?v=3_AgG6GUr0w
-
-https://www.youtube.com/watch?v=2lgwr7trSgw
-
-https://www.youtube.com/watch?v=l1pxV7Nro34
-
-messi
-
-sand
-
-new sos house
-
-new signal method
+### Notes:
+https://six-zinc-ad4.notion.site/jeju-house-1b25e832d6ee8066b8d5ca6736e09076
