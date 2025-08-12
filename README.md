@@ -1,6 +1,8 @@
-# jeju house
+# jeju-house
 
-# Introduction
+## Jeju house
+
+### Introduction
 
 [https://github.com/vietphan1995/jeju-house](https://github.com/vietphan1995/jeju-house)
 
@@ -18,7 +20,7 @@ In extend, this house can help maintain ocean life in observe animal method, cle
 
 ![image.png](image%201.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
-### Notes:
+### Notes
 https://phantrungviet.notion.site/jeju-house-1b25e832d6ee8066b8d5ca6736e09076
