@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/jeju-house](https://github.com/vietphan1995/jeju-house)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:jeju-house_project&body=left_your_idea)
+
 A house that people can live in emergency situation. Emergency situation can be listed as natural disaster like storm, volcano, flood, rain, earthquake, fired; happen on land, sand, mountain, beach, ocean, or in attack by animal …
 
 This house has architect shape like warning float on beach, circle shape, triangle ridge, and long bottom column nail connect with this house below water face, i think this house can keep balance when it meets big waves, winds, volcanos, in any temperature condition.
@@ -19,6 +21,8 @@ In extend, this house can help maintain ocean life in observe animal method, cle
 ![image.png](image.png)
 
 ![image.png](image%201.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
